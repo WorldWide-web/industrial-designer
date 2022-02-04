@@ -1,0 +1,59 @@
+
+.skills ul {
+    color: rgb(8, 8, 170);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.small { width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+img {
+    width: 400px;
+    border-radius: 10px;
+}
+
+.toyname {
+    font-weight: bold;
+    text-align: center;
+}
+.deslux {
+    border: 5px solid black;
+    width:500px ;
+}
+
+#menu{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(129, 129, 255);
+    border-radius: 7px;
+}
+
+body{
+background-color: rgb(241, 244, 255);
+line-height: 1.4;
+font-size: 20px;
+margin-left: 60px;
+margin: 60px;
+background-image: url('image/industrydesign.jpeg'); 
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+}
+
+.icon{
+    width: 20px;
+    height: 20px;
+}
+
+.content{background-color: rgba(246, 247, 248, 0.808);
+padding-left: 30px;
+padding-top: 50px;
+padding-right: 30px;
+border-radius: 7px;
+
+}
